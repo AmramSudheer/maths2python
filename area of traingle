@@ -1,0 +1,6 @@
+def traingle(height,base):
+    height = float(input("enter the area :"))
+    base = float(input("enter the area :"))
+    area = (0.5)*height*base
+    return area
+print(traingle(" "," "))
